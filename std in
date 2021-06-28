@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+    <html lang="en">
+<head>
+  <meta charset= "utf-8" >
+  <title>Final Project</title>
+  </head>
+  <body>
+    <header>
+        <nav>
+  <h1>Santhosh kumar</h1>
+    <a href="http://www.facebook.com">one</a>
+      <a href="http://www.twitter.com">two</a>
+        <a href="http://www.instagram.com">three</a>
+          <a href="http://www.github.com">four</a><br/>
+        </nav>
+    </header>
+    <section>
+        <h2>Favorite food</h2>
+        <ul>
+            <li>
+                apple
+            </li>
+            <li>orange</li>
+            <li>pizza</li>
+            <li>crab</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Achievements</h2>
+         progress in Achievements (100%)
+         <progress value="100" max="100"></progress>
+         <br/>
+        progress in specialization capstone (20%)
+        <progress value="20" max="100"></progress>
+        <br/>
+        progress in life goals(67%)
+        <progress value="67" max="100"></progress>
+    </section>
+    <section>
+        <h2>More About Me</h2>
+        <details open>
+            <summary>My Childhood</summary>
+            <p>I grew up in TN.I lived in a small house and I really enjoyed my childhood </p>
+        </details>
+    </section>
+    <footer>
+        <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Web design for everyone">
+        this page was created by santhosh  &amp; Colleen van Lent.
+            To learn more about web design, visit
+        <a><href="http://www.intro-webdesign.com/">Intro to the web design</a>
+    </footer>
+    </body>
+    </html>
+
+
+  
+       
+    
+  
